@@ -1,4 +1,3 @@
-# Hi, I'm Umid! 👋
 
 
 # My Calculator
